@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.RestVS">
+        <servicesKeys>
+            <keyDetails collectionKey="AWS_CCS:ListBuckets" connectorServiceName="AWS_CCS:ListBuckets"/>
+            <keyDetails collectionKey="AWS_CCS:createBucket" connectorServiceName="AWS_CCS:createBucket"/>
+            <keyDetails collectionKey="AWS_CCS:downloadObject" connectorServiceName="AWS_CCS:downloadObject"/>
+            <keyDetails collectionKey="AWS_CCS:put_object" connectorServiceName="AWS_CCS:put_object"/>
+            <keyDetails collectionKey="AWS_CCS:uploadObject" connectorServiceName="AWS_CCS:uploadObject"/>
+            <keyDetails collectionKey="AWS_CCS:uploadPart" connectorServiceName="AWS_CCS:uploadPart"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
