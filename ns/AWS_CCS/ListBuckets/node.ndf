@@ -1051,7 +1051,7 @@
     <value name="interactionName">ListAllMyBuckets</value>
     <value name="serviceName">AmazonS3RestService</value>
     <value name="virtualServiceName">WmCloudStreams.RestVS</value>
-    <value name="connectionName">AWS_S3.conn:Auto_1</value>
+    <value name="connectionName">AWS_S3:OriginKMAT_A</value>
     <value name="connectionType">sagcloud</value>
     <value name="connectorID">com.softwareag.cloudstreams.amazon.s3.aws4_v20060301</value>
     <record name="customData" javaclass="com.wm.util.Values">
